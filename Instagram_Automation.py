@@ -11,6 +11,5 @@ from instapy_cli import client
 # password = ''
 # image = 'posts/post1.png'
 # text = 'Upload from python'
-
 # with client(username, password) as cli:
 #     cli.upload(image, text)
